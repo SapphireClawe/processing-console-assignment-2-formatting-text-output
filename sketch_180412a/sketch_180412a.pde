@@ -10,11 +10,11 @@ void setup() {
   String team1name = "Edmonton Oilers";
   int team1wins = 10;
   int team1losses = 7;
-  String team2name = "Vancouver Canucks"
-  int team2wins = 4
-  int team2losses = 13
+  String team2name = "Vancouver Canucks";
+  int team2wins = 4;
+  int team2losses = 13;
     println("The first team is called Edmonton Oilers.");
-    println
+    println("The second team is called Vancouver Canucks.");
   
 
 }
