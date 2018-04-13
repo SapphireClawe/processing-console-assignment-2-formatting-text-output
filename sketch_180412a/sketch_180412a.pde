@@ -19,6 +19,12 @@ void setup() {
     println("The first team is called Edmonton Oilers.");
     println("The second team is called Vancouver Canucks.");
     println("The third team is called Montreal Canadiens.");
+    
+  int team1points = 20;
+  int team2points = 8;
+  int team3points = 24;
+  
+   
   
 
 }
